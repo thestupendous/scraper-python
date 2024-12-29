@@ -1,7 +1,7 @@
 ai/
 chrome-win64/
 
-//exclusions for compressed files
+#exclusions for compressed files
 *.rar
 *.7z
 *.bz2
@@ -10,7 +10,7 @@ chrome-win64/
 *.exe
 *.tar.gz
 
-//exclusions for multimedia files, audio and video files
+#exclusions for multimedia files, audio and video files
 
 *.jpg
 *.jpeg
@@ -32,7 +32,7 @@ chrome-win64/
 *.ogg
 *.wma
 
-//exclusions for executables and binaries
+#exclusions for executables and binaries
 *.bat
 *.cmd
 *.sh
