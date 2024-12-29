@@ -1,5 +1,7 @@
 ai/
 chrome-win64/
+exec/
+
 
 #exclusions for compressed files
 *.rar
